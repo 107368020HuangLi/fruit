@@ -1,0 +1,2 @@
+先藉由resize.ipynb轉 64*64 
+再藉由fruit_second.ipynb輸出結果
