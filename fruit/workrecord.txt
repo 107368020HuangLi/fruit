@@ -1,0 +1,7 @@
+newmodel_mango.ipynb
+註解上了
+程式碼可讀性提升
+網路部分拆掉等新網路添加
+nice_resize
+nice_delete_background
+可讀性提升
